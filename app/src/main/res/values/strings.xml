@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">DataStore</string>
+
+    <string name="tv_login">Login</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="btn_login">Login</string>
+    <string name="no_account">Don\'t Have an Account?</string>
+    <string name="register">Register</string>
+    <string name="tv_create_new_account">Create New Account</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="btn_create_account">Create Account</string>
+    <string name="have_ccount">Already Have an Account?</string>
+    <string name="login">Login</string>
+
+    <string name="username_is_empty">Username is empty!</string>
+    <string name="password_is_empty">Password is empty!</string>
+    <string name="username_or_password_incorrect">Username or password incorrect!</string>
+    <string name="account_updated">Account Updated!</string>
+    <string name="email_is_empty">Email is empty!</string>
+    <string name="please_confirm_password">Please confirm password</string>
+    <string name="password_mismatch">Check again, password mismatch!</string>
+    <string name="account_created">Account Created!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
